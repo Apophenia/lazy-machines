@@ -1,8 +1,6 @@
 var express = require('express');
 var app = express();
 var url = require("url");
-var dict = require("dict");
-var isurl = require("is-url");
 var pg = require('pg');
 var bodyParser = require('body-parser');
 

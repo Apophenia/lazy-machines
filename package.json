@@ -5,7 +5,6 @@
   "main": "server.js",
   "dependencies": {
       "express": "~4.12.3",
-      "is-url": "~0.1.0",
       "pg": "~4.3.0",
       "body-parser": "~1.12.2"
   },
